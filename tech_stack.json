@@ -1,0 +1,1700 @@
+[
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Ansible",
+    "tech_stack_num": 1,
+    "tech_stack_id": "ansible"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Argo CD",
+    "tech_stack_num": 2,
+    "tech_stack_id": "argocd"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "AWS CodeBuild",
+    "tech_stack_num": 3,
+    "tech_stack_id": "awscodebuild"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "AWS CodeDeploy",
+    "tech_stack_num": 4,
+    "tech_stack_id": "awscodedeploy"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "AWS CodePipeline",
+    "tech_stack_num": 5,
+    "tech_stack_id": "awscodepipeline"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Azure DevOps",
+    "tech_stack_num": 6,
+    "tech_stack_id": "azuredevops"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Bitbucket",
+    "tech_stack_num": 7,
+    "tech_stack_id": "bitbucket"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Bitrise",
+    "tech_stack_num": 8,
+    "tech_stack_id": "bitrise"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Capistrano",
+    "tech_stack_num": 9,
+    "tech_stack_id": "capistrano"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Central Dogma",
+    "tech_stack_num": 10,
+    "tech_stack_id": "centraldogma"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Circle CI",
+    "tech_stack_num": 11,
+    "tech_stack_id": "circleci"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Docker",
+    "tech_stack_num": 12,
+    "tech_stack_id": "docker"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Drone",
+    "tech_stack_num": 13,
+    "tech_stack_id": "drone"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Github",
+    "tech_stack_num": 14,
+    "tech_stack_id": "github"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Github Action",
+    "tech_stack_num": 15,
+    "tech_stack_id": "githubaction"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Gitlab",
+    "tech_stack_num": 16,
+    "tech_stack_id": "gitlab"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Go CD",
+    "tech_stack_num": 17,
+    "tech_stack_id": "gocd"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Google Cloud Build",
+    "tech_stack_num": 18,
+    "tech_stack_id": "googlecodebuild"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Gulp",
+    "tech_stack_num": 19,
+    "tech_stack_id": "gulp"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Harbor",
+    "tech_stack_num": 20,
+    "tech_stack_id": "harbor"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Helm",
+    "tech_stack_num": 21,
+    "tech_stack_id": "helm"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Jaeger",
+    "tech_stack_num": 22,
+    "tech_stack_id": "jaeger"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Jenkins",
+    "tech_stack_num": 23,
+    "tech_stack_id": "jenkins"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Kube-Bench",
+    "tech_stack_num": 24,
+    "tech_stack_id": "kubebench"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Kubernetes",
+    "tech_stack_num": 25,
+    "tech_stack_id": "kubernetes"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Linkerd",
+    "tech_stack_num": 26,
+    "tech_stack_id": "linkerd"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Nexus",
+    "tech_stack_num": 27,
+    "tech_stack_id": "nexus"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "OpenEBS",
+    "tech_stack_num": 28,
+    "tech_stack_id": "openebs"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Packer",
+    "tech_stack_num": 29,
+    "tech_stack_id": "packer"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Rancher",
+    "tech_stack_num": 30,
+    "tech_stack_id": "rancher"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Rundeck",
+    "tech_stack_num": 31,
+    "tech_stack_id": "rundeck"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Saltstack",
+    "tech_stack_num": 32,
+    "tech_stack_id": "saltstack"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Spinnaker",
+    "tech_stack_num": 33,
+    "tech_stack_id": "spinnaker"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Terraform",
+    "tech_stack_num": 34,
+    "tech_stack_id": "terraform"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Traefik",
+    "tech_stack_num": 35,
+    "tech_stack_id": "traefik"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Travis CI",
+    "tech_stack_num": 36,
+    "tech_stack_id": "travisci"
+  },
+  {
+    "category": "데브옵스",
+    "category_id": "devops",
+    "name": "Zabbix",
+    "tech_stack_num": 37,
+    "tech_stack_id": "zabbix"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Airflow",
+    "tech_stack_num": 38,
+    "tech_stack_id": "airflow"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "AWS Athena",
+    "tech_stack_num": 39,
+    "tech_stack_id": "awsathena"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "AWS Redshift",
+    "tech_stack_num": 40,
+    "tech_stack_id": "awsredshift"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Clickhouse",
+    "tech_stack_num": 41,
+    "tech_stack_id": "clickhouse"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Druid",
+    "tech_stack_num": 42,
+    "tech_stack_id": "druid"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Flink",
+    "tech_stack_num": 43,
+    "tech_stack_id": "flink"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Fluentd",
+    "tech_stack_num": 44,
+    "tech_stack_id": "fluentd"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Google BigQuery",
+    "tech_stack_num": 45,
+    "tech_stack_id": "googlebigquery"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Google Data Studio",
+    "tech_stack_num": 46,
+    "tech_stack_id": "googledatastudio"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Grafana",
+    "tech_stack_num": 47,
+    "tech_stack_id": "grafana"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Hadoop",
+    "tech_stack_num": 48,
+    "tech_stack_id": "hadoop"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "HBase",
+    "tech_stack_num": 49,
+    "tech_stack_id": "hbase"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Hive",
+    "tech_stack_num": 50,
+    "tech_stack_id": "hive"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Impala",
+    "tech_stack_num": 51,
+    "tech_stack_id": "impala"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Kafka",
+    "tech_stack_num": 52,
+    "tech_stack_id": "kafka"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Keras",
+    "tech_stack_num": 53,
+    "tech_stack_id": "keras"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Kibana",
+    "tech_stack_num": 54,
+    "tech_stack_id": "kibana"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Kubeflow",
+    "tech_stack_num": 55,
+    "tech_stack_id": "kubeflow"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Kudu",
+    "tech_stack_num": 56,
+    "tech_stack_id": "kudu"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Looker",
+    "tech_stack_num": 57,
+    "tech_stack_id": "looker"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Luigi",
+    "tech_stack_num": 58,
+    "tech_stack_id": "luigi"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Metabase",
+    "tech_stack_num": 59,
+    "tech_stack_id": "metabase"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "MLflow",
+    "tech_stack_num": 60,
+    "tech_stack_id": "mlflow"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "NIFI",
+    "tech_stack_num": 61,
+    "tech_stack_id": "nifi"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Presto",
+    "tech_stack_num": 62,
+    "tech_stack_id": "presto"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Prometheus",
+
+    "tech_stack_num": 63,
+    "tech_stack_id": "prometheus"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Pytorch",
+
+    "tech_stack_num": 64,
+    "tech_stack_id": "pytorch"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Ray",
+
+    "tech_stack_num": 65,
+    "tech_stack_id": "ray"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Redash",
+
+    "tech_stack_num": 66,
+    "tech_stack_id": "redash"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Spark",
+
+    "tech_stack_num": 67,
+    "tech_stack_id": "spark"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Superset",
+
+    "tech_stack_num": 68,
+    "tech_stack_id": "superset"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Tableau",
+
+    "tech_stack_num": 69,
+    "tech_stack_id": "tableau"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Tensorflow",
+
+    "tech_stack_num": 70,
+    "tech_stack_id": "tensorflow"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Zeppelin",
+
+    "tech_stack_num": 71,
+    "tech_stack_id": "zeppelin"
+  },
+  {
+    "category": "데이터",
+    "category_id": "data",
+    "name": "Zipkin",
+
+    "tech_stack_num": 72,
+    "tech_stack_id": "zipkin"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "Arcus",
+
+    "tech_stack_num": 73,
+    "tech_stack_id": "arcus"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "AWS AuroraDB",
+    "tech_stack_num": 74,
+    "tech_stack_id": "awsauroradb"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "AWS DocumentDB",
+    "tech_stack_num": 75,
+    "tech_stack_id": "awsdocumentdb"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "AWS DynamoDB",
+    "tech_stack_num": 76,
+    "tech_stack_id": "awsdynamodb"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "AWS MariaDB",
+    "tech_stack_num": 77,
+    "tech_stack_id": "awsmariadb"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "CassandraDB",
+    "tech_stack_num": 78,
+    "tech_stack_id": "cassandra"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "Ceph",
+
+    "tech_stack_num": 79,
+    "tech_stack_id": "ceph"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "CockroachDB",
+
+    "tech_stack_num": 80,
+    "tech_stack_id": "cockroachdb"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "Couchbase",
+
+    "tech_stack_num": 81,
+    "tech_stack_id": "couchbase"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "Cubrid",
+
+    "tech_stack_num": 82,
+    "tech_stack_id": "cubrid"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "ElasticSearch",
+    "tech_stack_num": 83,
+    "tech_stack_id": "elasticsearch"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "Greenplum",
+
+    "tech_stack_num": 84,
+    "tech_stack_id": "greenplum"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "InfluxDB",
+
+    "tech_stack_num": 85,
+    "tech_stack_id": "influxdb"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "Memcached",
+
+    "tech_stack_num": 86,
+    "tech_stack_id": "memcached"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "MongoDB",
+
+    "tech_stack_num": 87,
+    "tech_stack_id": "mongodb"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "MSSQL",
+
+    "tech_stack_num": 88,
+    "tech_stack_id": "mssql"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "MySQL",
+
+    "tech_stack_num": 89,
+    "tech_stack_id": "mysql"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "Neo4j",
+
+    "tech_stack_num": 90,
+    "tech_stack_id": "neo4j"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "OracleDB",
+    "tech_stack_num": 91,
+    "tech_stack_id": "oracledb"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "PostgreSQL",
+
+    "tech_stack_num": 92,
+    "tech_stack_id": "postgresql"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "Redis",
+
+    "tech_stack_num": 93,
+    "tech_stack_id": "redis"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "RocksDB",
+
+    "tech_stack_num": 94,
+    "tech_stack_id": "rocksdb"
+  },
+  {
+    "category": "데이터베이스",
+    "category_id": "database",
+    "name": "Solr",
+
+    "tech_stack_num": 95,
+    "tech_stack_id": "solr"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Alamofire",
+
+    "tech_stack_num": 96,
+    "tech_stack_id": "alamofire"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Bazel",
+
+    "tech_stack_num": 97,
+    "tech_stack_id": "bazel"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Dagger",
+
+    "tech_stack_num": 98,
+    "tech_stack_id": "dagger"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "ExoPlayer",
+
+    "tech_stack_num": 99,
+    "tech_stack_id": "exoplayer"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Fastlane",
+
+    "tech_stack_num": 100,
+    "tech_stack_id": "fastlane"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Flutter",
+
+    "tech_stack_num": 101,
+    "tech_stack_id": "flutter"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Glide",
+
+    "tech_stack_num": 102,
+    "tech_stack_id": "glide"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Google Firebase",
+    "tech_stack_num": 103,
+    "tech_stack_id": "googlefirebase"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Google Firestore",
+    "tech_stack_num": 104,
+    "tech_stack_id": "googlefirestore"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Lottie",
+
+    "tech_stack_num": 105,
+    "tech_stack_id": "lottie"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Moya",
+
+    "tech_stack_num": 106,
+    "tech_stack_id": "moya"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "React Native",
+    "tech_stack_num": 107,
+    "tech_stack_id": "reactnative"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "ReactorKit",
+
+    "tech_stack_num": 108,
+    "tech_stack_id": "reactorkit"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Realm",
+
+    "tech_stack_num": 109,
+    "tech_stack_id": "realm"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "Retrofit",
+
+    "tech_stack_num": 110,
+    "tech_stack_id": "retrofit"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "RIBs",
+
+    "tech_stack_num": 111,
+    "tech_stack_id": "ribs"
+  },
+  {
+    "category": "모바일",
+    "category_id": "mobile",
+    "name": "SnapKit",
+
+    "tech_stack_num": 112,
+    "tech_stack_id": "snapkit"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Apollo",
+    "tech_stack_num": 113,
+    "tech_stack_id": "apollo"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Armeria",
+
+    "tech_stack_num": 114,
+    "tech_stack_id": "armeria"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "ASP.NET",
+
+    "tech_stack_num": 115,
+    "tech_stack_id": "aspnet"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "AWS Kinesis",
+    "tech_stack_num": 116,
+    "tech_stack_id": "awskinesis"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "AWS SES",
+
+    "tech_stack_num": 117,
+    "tech_stack_id": "awsses"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "AWS SNS",
+
+    "tech_stack_num": 118,
+    "tech_stack_id": "awssns"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "AWS SQS",
+
+    "tech_stack_num": 119,
+    "tech_stack_id": "awssqs"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Celery",
+
+    "tech_stack_num": 120,
+    "tech_stack_id": "celery"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "CodeIgniter",
+
+    "tech_stack_num": 121,
+    "tech_stack_id": "codeigniter"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Django",
+
+    "tech_stack_num": 122,
+    "tech_stack_id": "django"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "ExpressJS",
+    "tech_stack_num": 123,
+    "tech_stack_id": "expressjs"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "FastAPI",
+
+    "tech_stack_num": 124,
+    "tech_stack_id": "fastapi"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Fastify",
+
+    "tech_stack_num": 125,
+    "tech_stack_id": "fastify"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Flask",
+
+    "tech_stack_num": 126,
+    "tech_stack_id": "flask"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "GRPC",
+
+    "tech_stack_num": 127,
+    "tech_stack_id": "grpc"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Hibernate",
+
+    "tech_stack_num": 128,
+    "tech_stack_id": "hibernate"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Koa",
+
+    "tech_stack_num": 129,
+    "tech_stack_id": "koa"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Laravel",
+
+    "tech_stack_num": 130,
+    "tech_stack_id": "laravel"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Liquibase",
+
+    "tech_stack_num": 131,
+    "tech_stack_id": "liquibase"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "MyBatis",
+    "tech_stack_num": 132,
+    "tech_stack_id": "mybatis"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "NestJS",
+
+    "tech_stack_num": 133,
+    "tech_stack_id": "nestjs"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Netty",
+
+    "tech_stack_num": 134,
+    "tech_stack_id": "netty"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "NodeJS",
+
+    "tech_stack_num": 135,
+    "tech_stack_id": "nodejs"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Phoenix",
+
+    "tech_stack_num": 136,
+    "tech_stack_id": "phoenix"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "RabbitMQ",
+
+    "tech_stack_num": 137,
+    "tech_stack_id": "rabbitmq"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Relay",
+
+    "tech_stack_num": 138,
+    "tech_stack_id": "relay"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Ruby on Rails",
+
+    "tech_stack_num": 139,
+    "tech_stack_id": "rubyonrails"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Spring",
+
+    "tech_stack_num": 140,
+    "tech_stack_id": "spring"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "SpringBoot",
+
+    "tech_stack_num": 141,
+    "tech_stack_id": "springboot"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Swagger",
+
+    "tech_stack_num": 142,
+    "tech_stack_id": "swagger"
+  },
+  {
+    "category": "백엔드",
+    "category_id": "backend",
+    "name": "Thrift",
+
+    "tech_stack_num": 143,
+    "tech_stack_id": "thrift"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Clojure",
+
+    "tech_stack_num": 144,
+    "tech_stack_id": "clojure"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "C++",
+
+    "tech_stack_num": 145,
+    "tech_stack_id": "cplusplus"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "C#",
+
+    "tech_stack_num": 146,
+    "tech_stack_id": "csharp"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Dart",
+
+    "tech_stack_num": 147,
+    "tech_stack_id": "dart"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Elixir",
+
+    "tech_stack_num": 148,
+    "tech_stack_id": "elixir"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Go",
+
+    "tech_stack_num": 149,
+    "tech_stack_id": "go"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Java",
+
+    "tech_stack_num": 150,
+    "tech_stack_id": "java"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Javascript",
+
+    "tech_stack_num": 151,
+    "tech_stack_id": "javascript"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Kotlin",
+
+    "tech_stack_num": 152,
+    "tech_stack_id": "kotlin"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Objective-C",
+
+    "tech_stack_num": 153,
+    "tech_stack_id": "objectivec"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Perl",
+
+    "tech_stack_num": 154,
+    "tech_stack_id": "perl"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "PHP",
+
+    "tech_stack_num": 155,
+    "tech_stack_id": "php"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Python",
+    "tech_stack_num": 156,
+    "tech_stack_id": "python"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "R",
+    "tech_stack_num": 157,
+    "tech_stack_id": "r"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Ruby",
+    "tech_stack_num": 158,
+    "tech_stack_id": "ruby"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Rust",
+
+    "tech_stack_num": 159,
+    "tech_stack_id": "rust"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Scala",
+
+    "tech_stack_num": 160,
+    "tech_stack_id": "scala"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Swift",
+
+    "tech_stack_num": 161,
+    "tech_stack_id": "swift"
+  },
+  {
+    "category": "언어",
+    "category_id": "language",
+    "name": "Typescript",
+
+    "tech_stack_num": 162,
+    "tech_stack_id": "typescript"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Appium",
+
+    "tech_stack_num": 163,
+    "tech_stack_id": "appium"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Cucumber",
+
+    "tech_stack_num": 164,
+    "tech_stack_id": "cucumber"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Cypress",
+
+    "tech_stack_num": 165,
+    "tech_stack_id": "cypress"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Enzyme",
+
+    "tech_stack_num": 166,
+    "tech_stack_id": "enzyme"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Jasmine",
+
+    "tech_stack_num": 167,
+    "tech_stack_id": "jasmine"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Jest",
+
+    "tech_stack_num": 168,
+    "tech_stack_id": "jest"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "JUnit",
+
+    "tech_stack_num": 169,
+    "tech_stack_id": "junit"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Karma",
+
+    "tech_stack_num": 170,
+    "tech_stack_id": "karma"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Locust",
+
+    "tech_stack_num": 171,
+    "tech_stack_id": "locust"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Mocha",
+
+    "tech_stack_num": 172,
+    "tech_stack_id": "mocha"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Mockito",
+
+    "tech_stack_num": 173,
+    "tech_stack_id": "mockito"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "nGrinder",
+
+    "tech_stack_num": 174,
+    "tech_stack_id": "ngrinder"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Playwright",
+
+    "tech_stack_num": 175,
+    "tech_stack_id": "playwright"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Puppeteer",
+
+    "tech_stack_num": 176,
+    "tech_stack_id": "puppeteer"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Rest-Assured",
+
+    "tech_stack_num": 177,
+    "tech_stack_id": "restassured"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Selenium",
+
+    "tech_stack_num": 178,
+    "tech_stack_id": "selenium"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Sinon",
+
+    "tech_stack_num": 179,
+    "tech_stack_id": "sinon"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Sonarqube",
+
+    "tech_stack_num": 180,
+    "tech_stack_id": "sonarqube"
+  },
+  {
+    "category": "테스팅툴",
+    "category_id": "testing_tool",
+    "name": "Testing Library",
+    "tech_stack_num": 181,
+    "tech_stack_id": "testinglibrary"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "AngularJS",
+    "tech_stack_num": 182,
+    "tech_stack_id": "angularjs"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "BackboneJS",
+
+    "tech_stack_num": 183,
+    "tech_stack_id": "backbonejs"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Docusaurus",
+
+    "tech_stack_num": 184,
+    "tech_stack_id": "docusaurus"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Electron",
+
+    "tech_stack_num": 185,
+    "tech_stack_id": "electron"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "EmberJS",
+
+    "tech_stack_num": 186,
+    "tech_stack_id": "emberjs"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Emotion",
+
+    "tech_stack_num": 187,
+    "tech_stack_id": "emotion"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Gatsby",
+
+    "tech_stack_num": 188,
+    "tech_stack_id": "gatsby"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "GraphQL",
+
+    "tech_stack_num": 189,
+    "tech_stack_id": "graphql"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Hugo",
+
+    "tech_stack_num": 190,
+    "tech_stack_id": "hugo"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Immer",
+
+    "tech_stack_num": 191,
+    "tech_stack_id": "immer"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Meteor",
+
+    "tech_stack_num": 192,
+    "tech_stack_id": "meteor"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "MobX",
+
+    "tech_stack_num": 193,
+    "tech_stack_id": "mobx"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "NextJS",
+
+    "tech_stack_num": 194,
+    "tech_stack_id": "nextjs"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "NuxtJS",
+
+    "tech_stack_num": 195,
+    "tech_stack_id": "nuxtjs"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "OpenGL",
+
+    "tech_stack_num": 196,
+    "tech_stack_id": "opengl"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "React Context",
+
+    "tech_stack_num": 197,
+    "tech_stack_id": "reactcontext"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "ReactiveX",
+    "tech_stack_num": 198,
+    "tech_stack_id": "reactivex"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "ReactJS",
+    "tech_stack_num": 199,
+    "tech_stack_id": "reactjs"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Recoil",
+
+    "tech_stack_num": 200,
+    "tech_stack_id": "recoil"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Redux",
+
+    "tech_stack_num": 201,
+    "tech_stack_id": "redux"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Storybook",
+
+    "tech_stack_num": 202,
+    "tech_stack_id": "storybook"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Styled-Components",
+    "tech_stack_num": 203,
+    "tech_stack_id": "styledcomponents"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Svelte",
+
+    "tech_stack_num": 204,
+    "tech_stack_id": "svelte"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Tailwind",
+
+    "tech_stack_num": 205,
+    "tech_stack_id": "tailwind"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Unity",
+
+    "tech_stack_num": 206,
+    "tech_stack_id": "unity"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "VueJS",
+
+    "tech_stack_num": 207,
+    "tech_stack_id": "vuejs"
+  },
+  {
+    "category": "프론트엔드",
+    "category_id": "frontend",
+    "name": "Vuex",
+
+    "tech_stack_num": 208,
+    "tech_stack_id": "vuex"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Agit",
+
+    "tech_stack_num": 209,
+    "tech_stack_id": "agit"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Asana",
+
+    "tech_stack_num": 210,
+    "tech_stack_id": "asana"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Confluence",
+
+    "tech_stack_num": 211,
+    "tech_stack_id": "confluence"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Discord",
+
+    "tech_stack_num": 212,
+    "tech_stack_id": "discord"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Flow",
+    "tech_stack_num": 213,
+    "tech_stack_id": "flow"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Jandi",
+
+    "tech_stack_num": 214,
+    "tech_stack_id": "jandi"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Jira",
+
+    "tech_stack_num": 215,
+    "tech_stack_id": "jira"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Kakaotalk",
+
+    "tech_stack_num": 216,
+    "tech_stack_id": "kakaotalk"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "KakaoWork",
+
+    "tech_stack_num": 217,
+    "tech_stack_id": "kakaowork"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Monday",
+
+    "tech_stack_num": 218,
+    "tech_stack_id": "monday"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Naver Works",
+
+    "tech_stack_num": 219,
+    "tech_stack_id": "naverworks"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Notion",
+
+    "tech_stack_num": 220,
+    "tech_stack_id": "notion"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Slack",
+
+    "tech_stack_num": 221,
+    "tech_stack_id": "slack"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Telegram",
+
+    "tech_stack_num": 222,
+    "tech_stack_id": "telegram"
+  },
+  {
+    "category": "협업툴",
+    "category_id": "collab_tool",
+    "name": "Trello",
+    "tech_stack_num": 223,
+    "tech_stack_id": "trello"
+  }
+]
