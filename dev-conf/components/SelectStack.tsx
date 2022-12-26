@@ -19,7 +19,6 @@ function SelectStack() {
   const [category, setCategory] = useRecoilState(categoryState);
   const [stacks, setStacks] = useRecoilState(stackSelector as any);
   console.log('stacks', stacks);
-  console.log('', typeof(stacks));
   const onCategoryInput = (event: React.FormEvent<HTMLSelectElement>) => {
     setCategory(event.currentTarget.value as any);
   };
