@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "Prisma.prisma",
+    "prisma.fileWatcher": false,
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnSave": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

@@ -2,6 +2,9 @@ import Seo from "../components/Seo";
 import AddConf from "../components/addConf";
 import Calendar from "../components/calendar";
 import { RecoilRoot } from "recoil";
+import Header from "../components/header";
+import Cards from "../components/cards";
+
 
 const Home = () => {
   return (
@@ -9,9 +12,13 @@ const Home = () => {
       <Seo title="Home" />
       <main>
         <RecoilRoot>
-          <AddConf />
-
-          <Calendar />          
+          <Header />
+          <div className=" pt-20 pl-8 pr-8">
+            <Cards />
+            <AddConf />
+            <Calendar />          
+          </div>
+          
         </RecoilRoot>
       </main>
     </div>
