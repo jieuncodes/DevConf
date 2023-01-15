@@ -11,12 +11,12 @@ datasource db {
 }
 
 model Conference {
-  title String
-  date DateTime?
-  location String?
-  Online Boolean
-  description String?
-  site String @unique
-  techStacks String
+  title        String
+  date         DateTime?
+  location     String?
+  online       Boolean
+  description  String?
+  site         String    @unique
+  techStacks   String
   uploaderInfo String
 }
